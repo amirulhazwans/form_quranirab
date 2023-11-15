@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523578905375",
+    "project_id": "quranirab-form",
+    "storage_bucket": "quranirab-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523578905375:android:59a86ef0bd41e0ed96962a",
+        "android_client_info": {
+          "package_name": "com.example.form_project_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIuH_0Ovvk0eU-ll-tbRPKpi3EwEAd-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
