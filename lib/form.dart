@@ -502,7 +502,7 @@ class _FormScreenState extends State<FormScreen> {
                                   onPressed: _isButtonDisabled ? null : submitImage,
                                   style: ElevatedButton.styleFrom(
                                     fixedSize: const Size(200, 50),
-                                    backgroundColor: Colors.white,
+                                    backgroundColor: Color(0xffE9D6B6),
                                   ),
                                   child: const Text('Daftar Permohonan'),
                                 ),
